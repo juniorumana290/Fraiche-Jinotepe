@@ -1,0 +1,8 @@
+001;9PM;16;1500
+002;Blue Label;84;2000
+003;Valentino;34;1300
+004;Acqua D' Amor;16;1200
+005;Bleu de Chanel;21;1200
+006;savage;81;236
+007;victoria secrect;35;3500
+008;chanel;20;1500

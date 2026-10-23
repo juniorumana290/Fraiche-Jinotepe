@@ -1,0 +1,7 @@
+001;junior;administrador;activo;12345678
+002;nahita;administrador;activo;01020304
+003;shneider;vendedor;activo;1020304050
+004;tatiana;admin;inactivo;12131415
+005;tung sahur;vendedor;despedido;987654321
+006;jose;vendedor;activo;08076
+007;jesli;supervisora;activo;995678

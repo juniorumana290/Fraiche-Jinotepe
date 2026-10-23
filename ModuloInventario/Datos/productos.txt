@@ -1,0 +1,9 @@
+
+001;Blue Label;20;1500
+002;One Million;13;1800
+003;9PM;10;2000
+004;Savage;20;1300
+005;Blue de Chanel;18;2000
+006;Valentino;11;2000
+007;Aqua D'amor;20;1200
+008;Intense Wild;67;800

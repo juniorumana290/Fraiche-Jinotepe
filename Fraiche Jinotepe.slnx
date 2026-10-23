@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Fraiche Jinotepe/Fraiche Jinotepe.csproj" />
+  <Project Path="Modulo Ventas/Modulo Ventas.csproj" Id="9583708d-66da-4369-be12-bcd26cfb6c7d" />
+  <Project Path="ModuloInventario/ModuloInventario.csproj" Id="39d32006-56ae-4278-a2ca-d9ddc8101fe1" />
+  <Project Path="ModuloUsuarios/ModuloUsuarios.csproj" Id="e82fc06a-69dc-49d1-a40c-5b7b0bf0cb0c" />
+  <Project Path="Stock/Stock.csproj" Id="fdd8620a-5e4a-44c8-b102-d473490ebf1a" />
+</Solution>

@@ -1,0 +1,4 @@
+1;13/10/2026;Shneider;Savage;2;Efectivo;2,600.00
+2;13/10/2026;shneider;Valentino;3;Efectivo;6,000.00
+3;13/10/2026;Shneider;One Million;3;Transferencia;5,400.00
+4;15/10/2026;shneider;Valentino;4;Tarjeta;8,000.00
